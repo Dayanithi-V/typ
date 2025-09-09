@@ -1,9 +1,7 @@
-.maindiv{
- display: flex;
- align-items: center;
- justify-content: center;
- flex-direction: column;
-}
-.highlight{
- background-color: yellow;
+.image-container{
+/* display: flex;
+align-items: center;
+justify-content: center; */
+position: relative;
+margin-top: 2%;
 }
